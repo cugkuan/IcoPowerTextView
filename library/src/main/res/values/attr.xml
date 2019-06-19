@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IcoPowerTextView">
+
+        <attr name="ico_power_left_width" format="dimension"></attr>
+        <attr name="ico_power_left_height" format="dimension"></attr>
+
+
+        <attr name="ico_power_right_width" format="dimension"></attr>
+        <attr name="ico_power_right_height" format="dimension"></attr>
+
+
+        <attr name="ico_power_top_width" format="dimension"></attr>
+        <attr name="ico_power_top_height" format="dimension"></attr>
+
+
+        <attr name="ico_power_bottom_width" format="dimension"></attr>
+        <attr name="ico_power_bottom_height" format="dimension"></attr>
+
+    </declare-styleable>
+
+</resources>
