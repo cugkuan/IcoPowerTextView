@@ -1,4 +1,4 @@
-package com.cugkuan.widget;
+package com.cugkuan.powertextview;
 
 import org.junit.Test;
 
